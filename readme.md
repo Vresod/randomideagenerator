@@ -1,4 +1,4 @@
 
 # Random Idea Generator
 
-A minecraft related websit for generating random ideas.
+A minecraft related website for generating random ideas.
